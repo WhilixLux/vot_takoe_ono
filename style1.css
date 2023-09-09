@@ -1,0 +1,157 @@
+body{
+    background-image: url(hotlvid.jpg);
+    background-size: cover;
+    margin-left: 149px;
+}
+
+header{
+    height: 80px;
+    width: 1600px;
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: Gold;
+    border-radius: 20px;
+    margin-bottom: 10px;
+}
+
+.logo{
+    font-size: 45px;
+    margin-left: 100px;
+}
+
+header a{ 
+    font-weight: 500;
+    font-size: 15px;
+    color: #000000;
+    text-decoration: none;
+    margin-right: 200px;
+}
+
+main{
+    height: 760px;
+    width: 1600px;
+    background-color: Gold;
+    border-radius: 20px;
+}
+
+.footerf{
+    margin: 27px 0 0 0;
+}
+
+.gghg{
+    margin-left: 70px;
+}
+
+._line{
+    height: 1px;
+    background-color: #000000;
+    margin: 60px 0 0 0;
+}
+
+.vnis1{
+    height: 1px;
+    background-color: #000000;
+}
+
+.footer_line{
+    width: 1568px;
+    height: 1px;
+    background-color: #000000;
+    margin-left: 16px;
+}
+
+.footer_{
+    height: 50px;
+    display: flex;
+    align-items: center;
+}
+
+footer span{ 
+    font-size: 17px;
+}
+
+.art{
+    height: 1000px;
+    width: 1600px;
+}
+
+.Block{
+    display: inline;
+    margin: 50px;
+}
+
+.Block1{
+    display:flex;
+    justify-content: space-around;
+}
+
+.text{
+    background-color: #E6E6FA;
+}
+
+.text1{
+    margin-left: 30px;
+}
+
+.h1номера{
+    display:flex;
+    justify-content: center;
+    margin: 100px 0 50px 0;
+}
+
+.odin{
+    margin: 50px 0 0 0;
+}
+
+.vnis{
+    margin: 0 0 100px 0;
+}
+
+.ph1{
+    border-radius: 30px;
+}
+
+.logo21{
+    margin-left: 100px;
+}
+
+footer{
+    height: 80px;
+    width: 1600px;
+    background-color: Gold;
+    border-radius: 20px;
+    margin-top: 10px;
+}
+
+.ya_smog{
+    margin: 27px 0 0 0;
+    margin-left: 900px;
+}
+
+.button{
+    text-decoration: none;
+    color: black;
+    margin: 0 0 0 0;
+}
+
+.kod{
+    margin: 15px 0 0 0;
+}
+
+.h1пит{
+    display:flex;
+    justify-content: center;
+    margin-top: 10px;
+}
+
+.arol{
+    display:flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+
+iframe{
+    width: 1000px;
+    height: 50vh;
+}
